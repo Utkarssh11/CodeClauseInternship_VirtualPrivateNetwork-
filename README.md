@@ -1,4 +1,4 @@
-# Virtual Private Network with Java
+# Virtual Private Network 
 
 This repository contains the project files developed during my internship at CodeClause. The primary focus of this project is to create a Virtual Private Network (VPN) using Java. A VPN offers a secure and private network for users to access resources over the internet, ensuring data confidentiality and integrity.
 
